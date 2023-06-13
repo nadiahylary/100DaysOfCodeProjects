@@ -1,0 +1,20 @@
+body {
+    margin: 10px;
+    font-family: Ubuntu,sans-serif;
+}
+p {
+    text-align: center;
+    font-size: 17px;
+    color: #9c9e5e;
+}
+a {
+    color: #9a5050;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+h1 {
+    color: #9a1515;
+    text-align: center;
+}
