@@ -1,0 +1,26 @@
+h1 {
+    font-size: 48px;
+    color: rgb(100, 60, 40);
+}
+a {
+    color: teal;
+    text-decoration: none;
+    font-size: 28px;
+}
+a:hover {
+    color: #9a1515;
+}
+ol {
+    list-style: none;
+    width: 600px;
+    margin: 20px auto 0 auto;
+    padding: 0;
+}
+li {
+    background-color: #9a1515;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 10px;
+    font-size: 20px;
+    color: whitesmoke;
+}
