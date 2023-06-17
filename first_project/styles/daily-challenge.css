@@ -1,16 +1,16 @@
 h1 {
-    color: #9a1515;
+    color: rgb(100, 60, 40);
     text-align: center;
-    font-size: 35px;
+    font-size: 40px;
 }
 #todays-challenge {
     color: teal;
-    font-size: 35px;
+    font-size: 45px;
     font-weight: bold;
     font-family: Changa,sans-serif;
 }
 a {
-    color: #9a5050;
+    color: #9a1515;
     text-decoration: none;
 }
 a:hover {
