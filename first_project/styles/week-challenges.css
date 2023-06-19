@@ -1,3 +1,6 @@
+header {
+    margin-bottom: 20px;
+}
 h1 {
     font-size: 45px;
     color: rgb(100, 60, 40);
@@ -8,6 +11,7 @@ a {
     font-size: 22px;
     background-color: teal;
     border-radius: 8px;
+    display: inline-block;
     padding: 10px;
 }
 a:hover {
@@ -21,12 +25,12 @@ ol {
 }
 li {
     background-color: #9a5050;
-    margin: 15px;
+    margin: 25px;
     padding: 15px;
     border-radius: 10px;
     font-size: 20px;
     color: rgb(50, 15, 5);
-
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
 }
 main p {
     color: rgb(80, 15, 5);
@@ -38,4 +42,6 @@ li h3 {
     font-family: "Ubuntu Mono", sans-serif;
     font-size: 28px;
 }
-
+.highlight-goal {
+    background-color: #ba5050;
+}
