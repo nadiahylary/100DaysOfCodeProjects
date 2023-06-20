@@ -4,7 +4,7 @@ main {
     width: 950px;
     margin-left: 425px;
     margin-top: 150px;
-    background-color: #ff7f55;
+    background-color: rgb(190, 100, 105);
     border-radius: 15px;
 }
 img {
