@@ -2,13 +2,37 @@ body {
     font-family: Ubuntu, Changa, sans-serif;
     margin: 0;
 }
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 60px;
+}
 
 #page-logo a {
     font-family: Oleo Script, Pacifico, sans-serif;
-    padding: 20px;
+    padding: 10px;
     color: rgb(255, 50, 50);
     font-size: 50px;
     text-decoration: none;
     text-transform: uppercase;
     text-shadow: 1px 1px 2px black;
+}
+
+header ul {
+    display: flex;
+    justify-content: flex-end;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+header li {
+    margin: 10px;
+    text-align: right;
+}
+li a {
+    text-decoration: none;
 }
