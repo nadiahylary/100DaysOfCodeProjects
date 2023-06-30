@@ -14,7 +14,7 @@
     padding: 50px 0;
     margin: 0 auto;
     position: relative;
-    top: 300px;
+    top: 250px;
 }
 
 #hero-content h1 {
@@ -29,13 +29,14 @@
     text-transform: uppercase;
     color: white;
     font-size: 20px;
-    font-weight: 300;
+    font-weight: 200;
     margin-bottom: 35px;
 }
 
 #hero-content a {
     text-decoration: none;
-    background-color: rgb(255, 50, 40);
+    background-color: rgb(55, 170, 167);
+    text-transform: uppercase;
     padding: 10px 20px;
     border-radius: 8px;
     color: black;
@@ -44,5 +45,5 @@
 }
 
 #hero-content a:hover {
-    background-color: rgb(255, 90, 90);;
+    background-color: rgb(109, 178, 172)
 }
