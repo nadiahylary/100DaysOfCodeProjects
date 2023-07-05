@@ -61,3 +61,8 @@ h2 {
 .destination img {
     height: 200px;
 }
+
+footer p {
+    text-align: center;
+    color: rgba(80, 10, 10, 0.8);
+}
