@@ -61,10 +61,17 @@ h2 {
 .destination img {
     height: 200px;
 }
-
-footer p {
+footer {
     text-align: center;
+}
+footer p {
     color: rgba(80, 10, 10, 0.8);
     font-size: 18px;
     font-weight: 400;
+}
+
+footer a {
+    font-family: Changa, sans-serif;
+    color: rgb(255, 50, 50);
+    text-decoration: none;
 }
