@@ -69,8 +69,12 @@ footer p {
     font-size: 18px;
     font-weight: 400;
 }
+#footer-menu {
+    display: flex;
+    justify-content: space-around;
+}
 
-footer a {
+#footer-menu a {
     font-family: Changa, sans-serif;
     color: rgb(255, 50, 50);
     text-decoration: none;
