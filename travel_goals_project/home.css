@@ -56,23 +56,27 @@ h2 {
 #destinations {
     display: flex;
     width: 90%;
-    justify-content: space-evenly;
     margin-bottom: 50px;
 }
 #destinations-1 {
     display: flex;
     width: 90%;
-    justify-content: space-evenly;
     margin-bottom: 50px;
 }
+.destination {
+     margin: 0 20px;
+ }
 .destination img {
     height: 200px;
-    width: 100%;
-    border-radius: 5px;
+    width: 400px;
+    border-radius: 10px;
+    box-shadow: 2px 4px 8px rgba(68, 65, 65, 1);
+    object-fit: initial;
 }
 .destination p {
     text-align: center;
 }
+
 /*
 footer {
     text-align: center;
