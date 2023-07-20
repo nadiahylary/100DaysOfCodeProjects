@@ -37,7 +37,7 @@ header li {
     margin: 10px;
     text-align: right;
 }
-li a {
+.nav-link a {
     text-decoration: none;
     color: black;
     background-color: rgba(255, 100, 100, 0.8);
@@ -45,6 +45,21 @@ li a {
     border-radius: 8px;
 }
 
-li a:hover {
+.nav-link a:hover {
     background-color: rgb(255, 100, 100);
+}
+footer {
+    background: linear-gradient(70deg, rgb(10, 5, 5), rgb(15, 15, 15));
+    padding: 30px;
+}
+#footer-links {
+    display: flex;
+    justify-content: center;
+
+}
+
+.link-icon svg {
+    width: 50px;
+    height: 50px;
+    margin: 0 15px;
 }
